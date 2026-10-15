@@ -1,0 +1,9 @@
+{
+  "name": "nexus-reminder-landing",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static landing page for Nexus Reminder",
+  "scripts": {
+    "build": "node build-check.js"
+  }
+}
